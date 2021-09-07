@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Generic Product",
+      "price": 4.99
+    },
+    {
+      "id": 2,
+      "name": "Other Generic Product",
+      "price": 4.99
+    },
+    {
+      "id": 3,
+      "name": "Another Generic Product",
+      "price": 4.99
+    },
+    {
+      "name": "Last Generic Product",
+      "price": "4.99",
+      "id": 4
+    }
+  ]
+}
