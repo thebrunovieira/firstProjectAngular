@@ -1,0 +1,29 @@
+.container .sidenav {
+    position: fixed;
+
+    width: 20%;
+    max-width: 250px;
+    min-width: 120px;
+
+    top: 7.5vh;
+
+    background: #673ab7;
+}
+
+.container .sidenav .nav-list a {
+    text-transform: capitalize;
+    font-size: 1rem;
+    color: white;
+
+    font-family: 'Merienda', 'Courier New', Courier, monospace;
+}
+
+.container .sidenav .nav-list a i {
+    padding-right: 5px;
+}
+
+.container .content {
+    padding: 16px;
+    
+    background-color: #fff;
+}
